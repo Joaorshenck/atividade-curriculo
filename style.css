@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #282828;
+}
+
+.div-A4{
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    width: 800px;
+    height: 930px;
+}
+
+.info-basica{
+    float: right;
+    width: 500px;
+}
+
+.info-basica h2{
+    text-align: center;
+}
+
+.descrição-basica strong{
+    color: black;
+}
+
+hr{
+    width: 90%;
+}
+
+h3{
+    text-align: center;
+}
+
+.bl-form{
+    margin: 3px 5px;
+    padding: 10px 3px;
+}
+
+.forma-ano{
+    width: 200px;
+    float: left;
+    font-weight: bold;
+    color: black;
+}
+
+.forma-desc{
+    width: 550px;
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
